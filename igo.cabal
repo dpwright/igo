@@ -21,7 +21,7 @@ cabal-version:       >=1.8
 
 source-repository head
   type:                git
-  location:            git://github.com/dpwright/hs-go.git
+  location:            git://github.com/dpwright/igo.git
 
 library
   exposed-modules:     Game.Go
